@@ -28,8 +28,3 @@ This project aims to:
 ## 📬 How to reach me?
 - Email: thakurmihir610@gmail.com
 - Linkedin: www.linkedin.com/in/mihir-thakur-98a17a279
-- GitHub: https://github.com/[your-username]
-
----
-
-⭐ This repository will be updated as I start building the project.
